@@ -1,3 +1,17 @@
+## Connect with me
+  <a href="https://twitter.com/pandeyatul12_?t=zkI7Y5auRg6wMjEG9gbMZg&s=09">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://linkedin.com/in/atul kumar pandey">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="https://instagram.com/pandeyatul12">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>&ensp;
+  <a href="https://discord.gg/GnpgSMpHYm">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
+  </a> 
+
 # You Don't Know JS Yet (book series) - 2nd Edition
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the **second edition** of the book series:
